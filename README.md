@@ -92,7 +92,3 @@ The dataset contains marketing campaign data from a bank, with details such as:
 ## 💡 Conclusion
 The analysis highlights clear customer segments with high conversion potential.  
 By refining targeting and communication strategies, the bank could significantly improve success beyond the current **47 %** conversion rate.
-
----
-
-## 📁 Repository Structure
