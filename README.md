@@ -2,7 +2,7 @@
 
 ## 🧭 Project Overview
 This project analyzes a **bank marketing dataset** to understand which customer groups are most likely to subscribe to a term deposit.  
-The focus is on **data analysis** (not machine learning) — using Python for cleaning, exploration, feature engineering, and deriving business insights.
+The focus is on **data analysis** — using Python for cleaning, exploration, feature engineering, and deriving business insights.
 
 **Goal:** Identify patterns and actionable recommendations to improve the effectiveness of future marketing campaigns.
 
